@@ -116,7 +116,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-https://github.com/TGRTON/TegroNFTbot/commit/c208edcb519704cc98b2d9835d5ab9fef17b4d4e
+https://github.com/TGRTON/TegroNFTbot/blob/main/LICENSE
 
 ## Authors
 
